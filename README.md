@@ -1,4 +1,4 @@
-# Sistem-Penghitungan-Kendaraan-Otomatis
+# DeepCount: Sistem-Penghitungan-Kendaraan-Otomatis
 DeepCount adalah sistem berbasis video untuk mendeteksi dan menghitung kendaraan roda empat atau lebih secara otomatis, akurat, dan real-time, tanpa memerlukan sensor fisik tambahan. Proyek ini memanfaatkan teknik pengolahan citra digital konvensional seperti background subtraction dan centroid tracking.
 
 ### Dataset
